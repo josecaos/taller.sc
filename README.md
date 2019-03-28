@@ -1,6 +1,5 @@
 # taller.sc
-
-** Datos generados durante el taller * "CaosBox, desarrollo de herramientas para SuperCollider" * impartido en "Centro de cultura digital MX" 27,28 y 29 de marzo 2019 **
+**Datos generados durante el taller *"CaosBox, desarrollo de herramientas para SuperCollider"* impartido en "Centro de cultura digital MX" 27,28 y 29 de marzo 2019**
 
 
 ### Día 1
