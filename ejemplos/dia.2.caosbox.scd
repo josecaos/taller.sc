@@ -8,9 +8,14 @@ c.enviroment;
 // prueba de sonido
 c.soundcheck(\pink)// args: \pink, \white,\brown
 // Abre las funciones por default
-c.openDefaults;
 c.freqAnalyzer(true);// enciende analizador de frecuencia
 c.freqAnalyzer(false);// apaga analizador de frecuencia
+
+c.play;// Echa a andar la caosbox
+// c.stop;
+
+c.bpm(192);//cambia los BPMs
+
 
 /*
 CaosGear es una clase hija de CaosBox
@@ -29,5 +34,13 @@ k.kick(64,0.01,1);
 k.toTrack(Array.series(16,0,2));// Agrega ese instrumento al secuenciador
 k.toTrack([0,16]);
 
-// ... continuara en el dia 3
+//
+c.randomTime(true,true,[30,60,120,240]);// Tiempos random de caosbox entre los parametros declarados en el array
+c.openDefaults;// Abre archivo de parametros default
+c.toggleMetric;// Cambia metrica de cuartos a Tercios
 
+c.fx// permite generar cambios en los parametros de los efectos
+c.autoFx// permite declarar automatizacion de efectos
+
+
+// ... continuara en el dia 3
