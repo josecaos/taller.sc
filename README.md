@@ -11,3 +11,17 @@
 - Crea tu propia Clase
 ### Día 3
 - Concierto, presentación de proyectos
+
+
+### Información de contacto
+##### Dudas o comentarios
+*No FaceBook*
+#### Sitio:
+- https://josecaos.xyz
+#### Twitter:
+- @Ill_Slide
+- @mixfuckedup
+#### Instagram
+- @josecaos
+#### Email
+code@josecaos.xyz
