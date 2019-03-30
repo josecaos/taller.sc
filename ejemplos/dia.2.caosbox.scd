@@ -29,8 +29,6 @@ se tratan como timbres dinamicos, esto es que una vez instanciados y colocados e
 k = CaosGear.new;// Instancia un CaosGear
 k.kick();// Aplicale un instrumento
 k.kick(64,0.01,1);// Cambia los parametros de un instrumento
-k.kick(64,0.01,1);
-k.kick(64,0.01,1);
 k.toTrack(Array.series(16,0,2));// Agrega ese instrumento al secuenciador
 k.toTrack([0,16]);
 
